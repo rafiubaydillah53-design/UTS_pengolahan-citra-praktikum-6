@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Gambar yang digunakan adalah gambar sendiri:
 
-![Input](images/gambar.png)
+![Input](Screenshots/gambar.png)
 
 ---
 
