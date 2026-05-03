@@ -123,6 +123,7 @@ python step2_region_growing.py
 python step3_edge.py
 python step4_kmeans.py
 python step5_watershed.py
+python step6_morphology.py
 ```
 
 ---
@@ -134,3 +135,4 @@ python step5_watershed.py
 * Edge Detection untuk mendeteksi batas objek
 * K-Means untuk clustering piksel
 * Watershed untuk segmentasi objek kompleks
+* Morphology untuk memperbaiki bentuk objek pada citra berdasarkan struktur piksel
