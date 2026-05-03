@@ -21,6 +21,7 @@ Metode yang digunakan:
 * Edge Detection
 * K-Means Clustering
 * Watershed Segmentation
+* Morphology
 
 ---
 
