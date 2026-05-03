@@ -52,7 +52,7 @@ Metode:
 
 📸 **Hasil:**
 
-![Threshold](images/hasil_thresholding.png)
+![Threshold](Screenshots/gambar_1.png)
 
 ---
 
@@ -62,7 +62,7 @@ Mengambil area berdasarkan kemiripan intensitas dari titik seed.
 
 📸 **Hasil:**
 
-![Region Growing](images/hasil_region_growing.png)
+![Region Growing](Screenshots/gambar_2.png)
 
 ---
 
@@ -76,7 +76,7 @@ Metode:
 
 📸 **Hasil:**
 
-![Edge](images/hasil_tepi.png)
+![Edge](Screenshots/gambar_3.png)
 
 ---
 
@@ -86,7 +86,7 @@ Segmentasi berdasarkan jumlah cluster (K).
 
 📸 **Hasil:**
 
-![KMeans](images/hasil_kmeans.png)
+![KMeans](Screenshots/gambar_4.png)
 
 ---
 
@@ -96,7 +96,19 @@ Segmentasi berbasis region dan marker.
 
 📸 **Hasil:**
 
-![Watershed](images/hasil_watershed.png)
+![Watershed](Screenshots/gambar_5.png)
+
+---
+
+## 🧱 6. Morphological Operations
+
+Operasi:
+- Erosi
+- Dilasi
+- Opening
+- Closing
+
+![Morphology](Screenshots/gambar_6.png)
 
 ---
 
